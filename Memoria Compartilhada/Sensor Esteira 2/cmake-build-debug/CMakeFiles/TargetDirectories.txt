@@ -1,0 +1,3 @@
+C:/Users/Acer Nitro 5/Desktop/Trabalho IPC/Memoria Compartilhada/Sensor Esteira 2/cmake-build-debug/CMakeFiles/Sensor_Esteira_2.dir
+C:/Users/Acer Nitro 5/Desktop/Trabalho IPC/Memoria Compartilhada/Sensor Esteira 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Acer Nitro 5/Desktop/Trabalho IPC/Memoria Compartilhada/Sensor Esteira 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

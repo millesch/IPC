@@ -1,0 +1,3 @@
+C:/Users/Acer Nitro 5/Desktop/Trabalho IPC/Memoria Compartilhada/Computador Central/cmake-build-debug/CMakeFiles/Computador_Central.dir
+C:/Users/Acer Nitro 5/Desktop/Trabalho IPC/Memoria Compartilhada/Computador Central/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Acer Nitro 5/Desktop/Trabalho IPC/Memoria Compartilhada/Computador Central/cmake-build-debug/CMakeFiles/rebuild_cache.dir
