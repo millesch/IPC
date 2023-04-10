@@ -20,7 +20,7 @@ void atualizarPesoTotal(LPCTSTR buffer) {
     int pesoTotalAtual;
     memcpy(&pesoTotalAtual, buffer + 5, sizeof(int));
 
-    for(int i = 0; i <= 500; i++) {
+    for(int i = 0; i < 500; i++) {
         int aux;
         memcpy(&aux, buffer + 9 + (i * sizeof(int)), sizeof(int));
         pesoTotalAtual += aux;
@@ -38,7 +38,7 @@ void checarContador (LPCTSTR buffer) {
     int contador;
     memcpy(&contador, buffer + 1, sizeof(int));
 
-    if(contador >= 500) {
+    if(contador >= 499) {
         system("cls");
 
         struct timeval stop, start;
