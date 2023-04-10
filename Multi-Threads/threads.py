@@ -63,7 +63,7 @@ def checarContador():
     global contagem
     global pesoTotal
 
-    if (contagem >= 50):
+    if (contagem >= 499):
         inicio = time.time()
         atualizarPesoTotal()
         fim = time.time()
